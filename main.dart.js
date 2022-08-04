@@ -16850,7 +16850,7 @@ s.Hd(B.D8)
 s.xG()},
 a3V(){var s=0,r=A.a6(t.z),q,p
 var $async$a3V=A.a7(function(a,b){if(a===1)return A.a3(b,r)
-while(true)switch(s){case 0:p=$.acA+"_"+$.acB
+while(true)switch(s){case 0:p="assets/"+$.acA+"_"+$.acB
 A.mu(p)
 s=3
 return A.a2($.Ls().Yh(p),$async$a3V)
